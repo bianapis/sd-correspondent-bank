@@ -1,0 +1,13 @@
+{
+  "correspondentBankAgreement" : "Processing Rules",
+  "correspondentBankVostroAccountReference" : "CBVAR411",
+  "swiftTransactionReference" : "STR123",
+  "correspondentBankMirrorNostroAccountReference" : "CBMAR444",
+  "correspondentBankReconciliationTaskReference" : "CBRTR437",
+  "correspondentBankAccessServiceSessionReference" : "CBASSR467",
+  "correspondentBankAgreementReference" : "CBAR590",
+  "correspondentBankReconciliationTaskResult" : "CBRTR66",
+  "correspondentBankArrangementReference" : "CBAR436",
+  "correspondentTransactionReference" : "CTR332",
+  "correspondentBankTransactionReconciliationTaskReference" : "CBTRTR22"
+}

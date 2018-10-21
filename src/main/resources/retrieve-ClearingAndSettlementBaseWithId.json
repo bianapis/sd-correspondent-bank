@@ -1,0 +1,7 @@
+{
+  "correspondentBankClearingAgreementSettlementInstructions" : "customer specific default",
+  "correspondentBankClearingAgreementClearingInstructions" : "customer specific default instructions",
+  "mirrorNostroAccountReference" : "MNAR112",
+  "correspondentBankClearingAgreementReference" : "CBCAR445",
+  "correspondentBankArrangementReference" : "CBAR436"
+}
